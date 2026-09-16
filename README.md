@@ -31,7 +31,7 @@ My work includes:
 
 ## Project Demo
 
-**Project demonstration video coming soon.**
+
 
 ## Hardware & Technology
 

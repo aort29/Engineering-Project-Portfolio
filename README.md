@@ -31,7 +31,11 @@ My work includes:
 
 ## Project Demo
 
+[Watch Conveyor Control Validation]()
+
 [Watch Conveyor Control System Demonstration](https://github.com/aort29/Engineering-Project-Portfolio/raw/refs/heads/main/Control%20System%20Demonstration%20Video.mp4)
+
+[Watch Full Pharmaceutical Packaging System Demonstration](https://github.com/aort29/Engineering-Project-Portfolio/raw/refs/heads/main/Pharmaceutical%20Products%20Packaging%20Video%20(3).mp4)
 
 ## Hardware & Technology
 

@@ -7,7 +7,8 @@ Welcome to my engineering project portfolio. This portfolio highlights my hands-
 # Robotic Pharmaceutical Packaging System
 
 ## Project Overview
-<img width="826" height="601" alt="image" src="https://github.com/user-attachments/assets/6e5c4d1e-a0d6-4836-b74b-6e2ac646bdfc" />
+
+<img width="511" height="739" alt="image" src="https://github.com/user-attachments/assets/39456bd9-7832-44c8-9e67-15d54eaf96c1" />
 
 The Robotic Pharmaceutical Packaging System is an automated system designed to demonstrate the pharmaceutical packaging process using robotic arms, a conveyor system, sensors, and embedded controls.
 

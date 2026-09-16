@@ -31,7 +31,7 @@ My work includes:
 
 ## Project Demo
 
-[Watch Conveyor Control Validation]()
+[Watch Conveyor Control Validation](https://github.com/aort29/Engineering-Project-Portfolio/raw/refs/heads/main/videos/Conveyor%20Control%20Validation.mp4)
 
 [Watch Conveyor Control System Demonstration](https://github.com/aort29/Engineering-Project-Portfolio/raw/refs/heads/main/Control%20System%20Demonstration%20Video.mp4)
 

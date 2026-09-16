@@ -6,6 +6,10 @@ Welcome to my engineering project portfolio. This portfolio highlights my hands-
 
 # Robotic Pharmaceutical Packaging System
 
+**Senior Design Project | CPEG/MANE 462 | Spring 2026**
+
+**Focus:** Embedded Control Systems, Automation, Sensors, System Integration
+
 ## Project Overview
 
 <img width="511" height="739" alt="image" src="https://github.com/user-attachments/assets/39456bd9-7832-44c8-9e67-15d54eaf96c1" />

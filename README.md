@@ -16,7 +16,7 @@ The system automates the movement and handling of pharmaceutical bottles through
 
 ## My Role — Conveyor Control System
 
-My primary responsibility for this project is the design and implementation of the conveyor belt control system.
+My primary responsibility for this team project was the design, programming, testing, and integration of the conveyor belt control system.
 
 <img width="826" height="601" alt="image" src="https://github.com/user-attachments/assets/f144c59e-0220-4738-b38c-b1297ab4be56" />
 
@@ -30,6 +30,8 @@ My work includes:
 - Integrating the conveyor with the overall robotic packaging process
 
 ## Project Demo
+
+The following demonstrations show the development, validation, and integration of my conveyor control system within the complete robotic packaging system.
 
 [Watch Conveyor Control Validation](https://github.com/aort29/Engineering-Project-Portfolio/raw/refs/heads/main/videos/Conveyor%20Control%20Validation.mp4)
 

@@ -41,8 +41,8 @@ My work includes:
 
 - Arduino UNO R4 WiFi
 - 12V DC Conveyor
-- Object Detection Sensors
-- Motor Control Circuitry
+- HC-SR04 Ultrasonic Sensors
+- Solid-State Relay (SSR)
 - UFactory Lite 6 Robotic Arms
 - Arduino IDE
 - Embedded C/C++

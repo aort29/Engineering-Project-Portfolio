@@ -65,7 +65,7 @@ The conveyor operates using two object-detection points:
 
 ### Arduino Source Code
 
-[View Conveyor Control System Arduino Code](YOUR-CODE-LINK)
+[View Conveyor Control System Arduino Code](code/conveyor_control_system.ino.ino)
 
 ---
 

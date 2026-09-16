@@ -17,6 +17,8 @@ The system automates the movement and handling of pharmaceutical bottles through
 
 My primary responsibility for this project is the design and implementation of the conveyor belt control system.
 
+<img width="826" height="601" alt="image" src="https://github.com/user-attachments/assets/f144c59e-0220-4738-b38c-b1297ab4be56" />
+
 My work includes:
 
 - Designing the conveyor control logic

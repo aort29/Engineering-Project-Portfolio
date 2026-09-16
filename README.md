@@ -47,9 +47,25 @@ My work includes:
 - Arduino IDE
 - Embedded C/C++
 
-## Project Documentation
+## Technical Documentation
 
-Additional project materials, including source code, schematics, photographs, and demonstration videos, will be added as the project progresses.
+### Conveyor Control Schematic
+
+The conveyor control system uses an Arduino UNO R4 WiFi to process input from two ultrasonic sensors and control the 12V DC conveyor through the switching circuitry.
+
+[INSERT SCHEMATIC HERE]
+
+### Control Logic
+
+The conveyor operates using two object-detection points:
+
+- **Sensor 1:** Detects an object within 15 cm, stops the conveyor for 3 seconds, and then resumes operation.
+- **Sensor 2:** Detects an object within 15 cm and keeps the conveyor stopped while the object remains present.
+- The Arduino continuously monitors both sensors and controls the conveyor based on the detected object position.
+
+### Arduino Source Code
+
+[View Conveyor Control System Arduino Code](YOUR-CODE-LINK)
 
 ---
 

@@ -1,0 +1,51 @@
+# Engineering Project Portfolio
+
+Welcome to my engineering project portfolio. This portfolio highlights my hands-on experience in controls, automation, embedded systems, robotics, and system integration.
+
+---
+
+# Robotic Pharmaceutical Packaging System
+
+## Project Overview
+
+The Robotic Pharmaceutical Packaging System is an automated system designed to demonstrate the pharmaceutical packaging process using robotic arms, a conveyor system, sensors, and embedded controls.
+
+The system automates the movement and handling of pharmaceutical bottles throughout different stages of the packaging process.
+
+## My Role — Conveyor Control System
+
+My primary responsibility for this project is the design and implementation of the conveyor belt control system.
+
+My work includes:
+
+- Designing the conveyor control logic
+- Programming an Arduino UNO R4 WiFi
+- Integrating sensors for object detection
+- Controlling a 12V DC conveyor
+- Testing and troubleshooting the conveyor system
+- Integrating the conveyor with the overall robotic packaging process
+
+## Project Demo
+
+**Project demonstration video coming soon.**
+
+## Hardware & Technology
+
+- Arduino UNO R4 WiFi
+- 12V DC Conveyor
+- Object Detection Sensors
+- Motor Control Circuitry
+- UFactory Lite 6 Robotic Arms
+- Arduino IDE
+- Embedded C/C++
+
+## Project Documentation
+
+Additional project materials, including source code, schematics, photographs, and demonstration videos, will be added as the project progresses.
+
+---
+
+## Contact
+
+**Ashley Ortiz**  
+Computer Engineering

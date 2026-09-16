@@ -53,7 +53,8 @@ My work includes:
 
 The conveyor control system uses an Arduino UNO R4 WiFi to process input from two ultrasonic sensors and control the 12V DC conveyor through the switching circuitry.
 
-[INSERT SCHEMATIC HERE]
+<img width="1425" height="711" alt="image" src="https://github.com/user-attachments/assets/598dc427-5b70-486c-bd66-7b5508b94951" />
+
 
 ### Control Logic
 
